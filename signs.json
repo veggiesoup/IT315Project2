@@ -4,84 +4,84 @@
 		"name": "Aries",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/aries.png",
 		"range": "March 21 - April 19",
-		"description": "Highly impatient and competitive, many Aries have the fighting spirit of your mythological ruler. You love to be a hero–or to be swept away by one. As the “baby” of the zodiac, you need lots of attention, and can throw quite the tantrum when you don’t get it. Fortunately, you rarely have a problem turning heads. Your friends love to follow as you lead them on the latest adventure. Make sure to let other people be the boss every now and then, too, or you could alienate potential allies. Focus your competitive streak into a diva-worthy goal, delegate to your troops, and you’ll rise to the top! Shake to find your most compatible signs.",
+		"description": "Highly impatient and competitive, many Aries have the fighting spirit of your mythological ruler. You love to be a hero–or to be swept away by one. As the “baby” of the zodiac, you need lots of attention, and can throw quite the tantrum when you don’t get it. Fortunately, you rarely have a problem turning heads. Your friends love to follow as you lead them on the latest adventure. Make sure to let other people be the boss every now and then, too, or you could alienate potential allies. Focus your competitive streak into a diva-worthy goal, delegate to your troops, and you’ll rise to the top!",
 		"signCompatible": "You are most compatible with a Leo, Sagittarius, or Libra."
 	},
 	{
 		"name": "Taurus",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/taurus.png",
 		"range": "April 20 - May 20",
-		"description": "Like a bull, Taurus operates at two speeds: either totally relaxed, or charging headfirst towards a target. You prefer to keep the peace, but when you’re pushed past your limit, watch out! Underneath it all, you just want to be comfortable, and surrounded by life’s finest offerings. Taurus knows what s/he likes, and that’s that. You stick with your opinions, and you don’t change unless there’s a really good reason. You can be stubborn… but on the upside, you’re also loyal and dependable. Shake to find your most compatible signs.",
+		"description": "Like a bull, Taurus operates at two speeds: either totally relaxed, or charging headfirst towards a target. You prefer to keep the peace, but when you’re pushed past your limit, watch out! Underneath it all, you just want to be comfortable, and surrounded by life’s finest offerings. Taurus knows what s/he likes, and that’s that. You stick with your opinions, and you don’t change unless there’s a really good reason. You can be stubborn… but on the upside, you’re also loyal and dependable.",
 		"signCompatible": "You are most compatible with a Capricorn, Pisces, or Scorpio."
 	},
 	{
 		"name": "Gemini", 
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/gemini.png",
 		"range": "May 21 - June 20",
-		"description": "If two is double the fun, then as the sign of the twins, you know it’s true! There are at least two personalities inside of you at all times. Adventurous Geminis change faster than the weather, and constantly flip between moods and interests. If possible, try to stick with a couple key passions for the long haul, and get really good at them. You love to chatter and you have a million great ideas. Keep your fast-moving mind and hands busy with email, instant messages, mobile gadgets, and great conversations. Watch a temptation to gossip. Keep a notebook handy to jot down your thoughts at all times. Shake to find your most compatible signs.",
+		"description": "If two is double the fun, then as the sign of the twins, you know it’s true! There are at least two personalities inside of you at all times. Adventurous Geminis change faster than the weather, and constantly flip between moods and interests. If possible, try to stick with a couple key passions for the long haul, and get really good at them. You love to chatter and you have a million great ideas. Keep your fast-moving mind and hands busy with email, instant messages, mobile gadgets, and great conversations. Watch a temptation to gossip. Keep a notebook handy to jot down your thoughts at all times.",
 		"signCompatible": "You are most compatible with a Libra, Aquarius, or Aries."
 	},
 	{
 		"name": "Cancer",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/cancer.png",
 		"range": "June 21 - July 22",
-		"description": "You are sensitive and loyal, with a ready shoulder to cry on. Cancer loves to get domestic, serving your friends and family home-baked goodies and tea. When you get moody, you need to be comforted, or else just left alone. Like a crab, you can cling — or pinch — when you feel threatened or vulnerable. To make life easier, surround yourself with comfort: a cozy sweater, a favorite book, trusted friends, and a stash of your favorite goodies. Cancers are close to their moms, so keep yours on speed-dial and call her when you’re down. Shake to find your most compatible signs.",
+		"description": "You are sensitive and loyal, with a ready shoulder to cry on. Cancer loves to get domestic, serving your friends and family home-baked goodies and tea. When you get moody, you need to be comforted, or else just left alone. Like a crab, you can cling — or pinch — when you feel threatened or vulnerable. To make life easier, surround yourself with comfort: a cozy sweater, a favorite book, trusted friends, and a stash of your favorite goodies. Cancers are close to their moms, so keep yours on speed-dial and call her when you’re down.",
 		"signCompatible": "You are most compatible with a Scorpio, Taurus, or Capricorn."
 	},
 	{
 		"name": "Leo",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/leo.png",
 		"range": "July 23 - August 22",
-		"description": "When the whole universe revolves around you, it’s hard to be humble! Like the Sun, Leo heats everything up with its dazzling drama. And when the Sun sets, it’s ice, ice baby. That’s why friends of Leo know to keep them happy and shining… or else. Leo is the sign of drama, and oh, can you put on a show! Even the Leos who pretend to be shy come to life in the spotlight. A natural-born leader, you love to be the boss. Leos need mega-doses of praise and appreciation, which may cause people to think you’re self-centered. Shake to find your most compatible signs.",
+		"description": "When the whole universe revolves around you, it’s hard to be humble! Like the Sun, Leo heats everything up with its dazzling drama. And when the Sun sets, it’s ice, ice baby. That’s why friends of Leo know to keep them happy and shining… or else. Leo is the sign of drama, and oh, can you put on a show! Even the Leos who pretend to be shy come to life in the spotlight. A natural-born leader, you love to be the boss. Leos need mega-doses of praise and appreciation, which may cause people to think you’re self-centered.",
 		"signCompatible": "You are most compatible with a Aries, Sagittarius, or Libra."
 	},
 	{
 		"name": "Virgo",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/virgo.png",
 		"range": "August 23 - September 22",
-		"description": "Virgos are always analyzing everything, forming opinions and judgments. On the outside, you seem sweet and innocent, but your quick mind never misses a detail. Virgo is also the sign of service, and you’re always there when help is needed. You’re an amazing, careful listener, and as a result, you give the best advice. You love to analyze everything! In fact, you can drive yourself crazy, because you never stop thinking. Virgo is a perfectionist who sees every flaw, and at times, you’re a little too critical. Shake to find your most compatible signs.",
+		"description": "Virgos are always analyzing everything, forming opinions and judgments. On the outside, you seem sweet and innocent, but your quick mind never misses a detail. Virgo is also the sign of service, and you’re always there when help is needed. You’re an amazing, careful listener, and as a result, you give the best advice. You love to analyze everything! In fact, you can drive yourself crazy, because you never stop thinking. Virgo is a perfectionist who sees every flaw, and at times, you’re a little too critical.",
 		"signCompatible": "You are most compatible with a Taurus, Pisces, or Capricorn."
 	},
 	{
 		"name": "Libra",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/libra.png",
 		"range": "September 23 - October 22",
-		"description": "Lovely Libra knows how to charm but behind your dimples and sweet personality, you’re a fighter. Libra is the sign of the scales, and you can’t stand anything that’s unfair or unbalanced. You’ll stand up for justice, and you’ll do it with style. Libra hates to be rushed–you prefer that everything happen your way, on your time. If that means you’re ten hours late, so be it. You’re a social butterfly who loves to be surrounded by people in a beautiful setting, talking and hanging out for hours. Just remember to save some time for yourself. Shake to find your most compatible signs.",
+		"description": "Lovely Libra knows how to charm but behind your dimples and sweet personality, you’re a fighter. Libra is the sign of the scales, and you can’t stand anything that’s unfair or unbalanced. You’ll stand up for justice, and you’ll do it with style. Libra hates to be rushed–you prefer that everything happen your way, on your time. If that means you’re ten hours late, so be it. You’re a social butterfly who loves to be surrounded by people in a beautiful setting, talking and hanging out for hours. Just remember to save some time for yourself.",
 		"signCompatible": "You are most compatible with a Aquarius, Gemini, or Sagittarius."
 	},
 	{
 		"name": "Scorpio",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/scorpio.png",
 		"range": "October 23 - November 21",
-		"description": "You’re so powerful that people feel your presence, even before you’ve said a word! Sensitive Scorpio picks up vibes. You see every little detail, and you can read people like an open book. Once your friends get used to your high-intensity style, they know that you’re fiercely loyal. Anyone who betrays you had better watch out! Like a Scorpion, you’ll deliver a painful sting of revenge. Since your sign is naturally secretive, work on being more open with people. This will develop trust, and improve your relationships. Shake to find your most compatible signs.",
+		"description": "You’re so powerful that people feel your presence, even before you’ve said a word! Sensitive Scorpio picks up vibes. You see every little detail, and you can read people like an open book. Once your friends get used to your high-intensity style, they know that you’re fiercely loyal. Anyone who betrays you had better watch out! Like a Scorpion, you’ll deliver a painful sting of revenge. Since your sign is naturally secretive, work on being more open with people. This will develop trust, and improve your relationships.",
 		"signCompatible": "You are most compatible with a Cancer, Capricorn, or Taurus."
 	},
 	{
 		"name": "Sagittarius",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/sagittarius.png",
 		"range": "November 22 - December 21",
-		"description": "You juggle a million projects, hobbies and friends. The more, the merrier! Sagittarius is forever pursuing a super-sized goal. Even when you fail, nothing can keep you down. You’ll chalk it up as a life lesson and inspire everyone with tales of your experience. As the sign of wisdom and truth, Sagittarius loves to “tell it like it is,” especially when it makes people laugh. However, your honesty doesn’t always come in the prettiest package. You’ve been known to bruise feelings with your bluntness. Cultivate patience, and be careful not to come off as a know-it-all. Shake to find your most compatible signs.",
+		"description": "You juggle a million projects, hobbies and friends. The more, the merrier! Sagittarius is forever pursuing a super-sized goal. Even when you fail, nothing can keep you down. You’ll chalk it up as a life lesson and inspire everyone with tales of your experience. As the sign of wisdom and truth, Sagittarius loves to “tell it like it is,” especially when it makes people laugh. However, your honesty doesn’t always come in the prettiest package. You’ve been known to bruise feelings with your bluntness. Cultivate patience, and be careful not to come off as a know-it-all.",
 		"signCompatible": "You are most compatible with a Leo, Aries, or Libra."
 	},
 	{
 		"name": "Capricorn",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/capricorn.png",
 		"range": "December 22 - January 19",
-		"description": "Ambitious Capricorn is symbolized by a mountain goat climbing up a rocky hill, taking one cautious step at a time. And that’s exactly how patient Caps like to do everything. You’ll skip the good stuff today if it means getting the reward tomorrow. That’s why your sign has more trophies and loyal friends than any other–you stay strong through the hard times. Hardworking Caps are devoted to their friends and families, and people count on you for support. You always keep your word. Shake to find your most compatible signs.",
+		"description": "Ambitious Capricorn is symbolized by a mountain goat climbing up a rocky hill, taking one cautious step at a time. And that’s exactly how patient Caps like to do everything. You’ll skip the good stuff today if it means getting the reward tomorrow. That’s why your sign has more trophies and loyal friends than any other–you stay strong through the hard times. Hardworking Caps are devoted to their friends and families, and people count on you for support. You always keep your word.",
 		"signCompatible": "You are most compatible with a Virgo, Taurus, or Cancer."
 	},
 	{
 		"name": "Aquarius",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/aquarius.png",
 		"range": "January 20 - February 18",
-		"description": "You’ve been known to do things your own way, moving on a path different from everyone else’s. Some call you eccentric, others appreciate your cutting-edge originality and authentic style. You’re highly individualistic, but also an amazing team player. Aquarius rules casual connections, and you can disengage as quickly as you connect. While you can be a bit unsentimental on a one-on-one level, you can be moved to tears by the plight of animals, the environment or other social justice issues. Yes, you’re a bohemian at heart in some ways, but you also get the job done. Shake to find your most compatible signs.",
+		"description": "You’ve been known to do things your own way, moving on a path different from everyone else’s. Some call you eccentric, others appreciate your cutting-edge originality and authentic style. You’re highly individualistic, but also an amazing team player. Aquarius rules casual connections, and you can disengage as quickly as you connect. While you can be a bit unsentimental on a one-on-one level, you can be moved to tears by the plight of animals, the environment or other social justice issues. Yes, you’re a bohemian at heart in some ways, but you also get the job done.",
 		"signCompatible": "You are most compatible with a Libra, Gemini, or Sagittarius."
 	},
 	{
 		"name": "Pisces",
 		"image": "https://raw.githubusercontent.com/veggiesoup/IT315Project2/master/pisces.png",
 		"range": "February 19 - March 20",
-		"description": "Your imagination is the perfect hideout when you want to escape, since Pisces is so creative. You love dancing (Pisces rules the feet), movies, poetry, and music. Your moods are mysterious and your dreams are intense. Although you can feel helpless, you’re much stronger than you think. The best way for Pisces to experience your own strength is to help people in need. You have great compassion and incredible healing powers. Because it’s easy for people to make you feel guilty, Pisces should watch out for friends who use you, or make you doubt yourself. Surround yourself with good-hearted friends who have their acts together. Shake to find your most compatible signs.",
+		"description": "Your imagination is the perfect hideout when you want to escape, since Pisces is so creative. You love dancing (Pisces rules the feet), movies, poetry, and music. Your moods are mysterious and your dreams are intense. Although you can feel helpless, you’re much stronger than you think. The best way for Pisces to experience your own strength is to help people in need. You have great compassion and incredible healing powers. Because it’s easy for people to make you feel guilty, Pisces should watch out for friends who use you, or make you doubt yourself. Surround yourself with good-hearted friends who have their acts together.",
 		"signCompatible": "You are most compatible with a Cancer, Taurus, or Capricorn."
 	}
 	],
